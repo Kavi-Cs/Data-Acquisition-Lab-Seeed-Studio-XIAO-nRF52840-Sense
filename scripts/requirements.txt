@@ -1,0 +1,5 @@
+pyserial>=3.5
+pyvisa>=1.14
+pyvisa-py>=0.7
+pyusb>=1.2
+matplotlib>=3.8
